@@ -20,3 +20,5 @@ Bu proje, ürünleri bir mock API üzerinden çekerek sepete ekleme özelliği s
 -Kullanıcı dostu bir arayüz tasarımı hedeflenerek, responsive tasarım prensipleri gözetilmiştir.
 
 ![Uygulama Örneği](mobile.gif)
+
+![Uygulama Örneği](tablet.gif)
